@@ -13,4 +13,4 @@ Jogador: Primeira pessoa, movimentando-se com o teclado (WASD) e movendo a câme
 
 Contexto: O jogador está na POLI-Elétrica na madrugada, ele terá uma prova no dia e precisa encontrar a sala de sua avaliação.
 
-Obstáculos: Existem inimigos que perseguirão o jogador e, ao conseguirem alcançá-lo, o aluno sofrerá dano. O inimigo invisível produzirá um som distinto que fica cada vez mais alto ao se aproximar do jogador, um mecanismo parecido com o jogo Slender.
+Obstáculos: Existem inimigos que perseguirão o jogador e, ao conseguirem alcançá-lo, o aluno sofrerá dano. O inimigo invisível produzirá um som distinto que fica cada vez mais alto ao se aproximar do jogador, um mecanismo parecido com o jogo Slender. 
